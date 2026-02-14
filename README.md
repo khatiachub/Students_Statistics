@@ -21,9 +21,7 @@ The "Sweet Spot": Placement success and salary packages significantly peak for s
 Internship Value: Students with 3+ internships show a noticeable increase in placement probability compared to those with zero.
 Attendance Factor: Higher attendance levels show a positive correlation with overall placement readiness.
 <img width="1321" height="420" alt="1" src="https://github.com/user-attachments/assets/c69453d6-9aef-4fc0-95a3-7e75acb34cbe" />
-<img width="1321" height="420" alt="1" src="https://github.com/user-attachments/assets/c69453d6-9aef-4fc0-95a3-7e75acb34cbe" />
-
 
 <img width="982" height="454" alt="2" src="https://github.com/user-attachments/assets/556b0dd7-0d4b-47eb-b0bd-eeab802786f1" />
-<img width="982" height="454" alt="2" src="https://github.com/user-attachments/assets/556b0dd7-0d4b-47eb-b0bd-eeab802786f1" />
+
 
