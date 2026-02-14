@@ -24,4 +24,8 @@ Attendance Factor: Higher attendance levels show a positive correlation with ove
 
 <img width="982" height="454" alt="2" src="https://github.com/user-attachments/assets/556b0dd7-0d4b-47eb-b0bd-eeab802786f1" />
 
+<img width="890" height="497" alt="3" src="https://github.com/user-attachments/assets/0fb7050a-28a1-445a-93a5-45799bc20600" />
+
+<img width="872" height="437" alt="4" src="https://github.com/user-attachments/assets/83a9a3be-079d-4c47-a1e5-86dcc8eac947" />
+
 
